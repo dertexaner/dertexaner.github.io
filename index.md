@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +27,7 @@
 <h4><em>..coming soon.</em></h4>
 <p>&nbsp;</p>
 
-<table width="100%">
+<table>
 <tbody>
 <tr>
 <th colspan="3" style="font-family:courier; text-align:left;"> Local selection 0: LightLeptonPairDR[0]>0.4&amp;&amp;MET>50 </th>
@@ -45,8 +46,6 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-
 
 </body>
 </html>
