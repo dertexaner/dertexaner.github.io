@@ -1,6 +1,12 @@
+<!DOCTYPE html>
 <html>
-<h2>&nbsp;</h2>
-<h2>&nbsp;</h2>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+<body>
+
+<!-- Content will go here -->
+
 <h2><strong>2016 Dataset</strong></h2>
 <ol>
 <li><a href="source/DielectronOnZ/">Dielectron OnZ CR</a></li>
@@ -19,4 +25,6 @@
 <h2><strong><br />2017 Dataset</strong></h2>
 <h4><em>..coming soon.</em></h4>
 <p>&nbsp;</p>
+
+</body>
 </html>
